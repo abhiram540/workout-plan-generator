@@ -92,3 +92,4 @@ This app generates general fitness guidance using AI. It is **not medical advice
 ---
 
 Built by [Abhiram Muktineni](https://github.com/abhiram540).
+[Click here to connect with Abhiram on LinkedIn:](www.linkedin.com/in/abhiram-muktineni-5918231b5).
